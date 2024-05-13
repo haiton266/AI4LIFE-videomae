@@ -1,0 +1,2 @@
+Model YOLO version5: https://drive.google.com/drive/folders/1-nTvKMqC1rkccqaUFSGOQ1lMqNyDDwFU?usp=sharing
+Nếu dùng model mới thì hãy nhớ đổi chỗ second, model
